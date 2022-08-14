@@ -1,0 +1,7 @@
+{
+    "golf": {
+        "names": "(//ul[@class='component-18-side-rail'])[1]",
+        "market" : "(//p[normalize-space()='MARKET'])[1]"
+
+    }
+}
